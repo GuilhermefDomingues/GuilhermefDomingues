@@ -11,51 +11,6 @@ Atualmente estudo e desenvolvo projetos nas áreas de Front-end e Back-end. Come
 
 Tenho foco, disciplina e vontade de crescer como profissional de tecnologia.
 
----
-
-## 🧩 Tecnologias que uso
-
-### 🔹 **Linguagens**
-- C#  
-- JavaScript  
-- PHP  
-
-### 🔹 **Frontend**
-- HTML  
-- CSS  
-- ReactJS  
-
-### 🔹 **Backend**
-- .NET  
-- Node.js  
-- PHP  
-
-### 🔹 **Banco de Dados**
-- SQL Server  
-- MongoDB  
-
-### 🔹 **Ferramentas**
-- Figma  
-- Photoshop  
-
----
-
-## 📚 Estudando atualmente
-- ReactJS  
-- Java  
-- Banco de Dados  
-- Lógica de Programação  
-- Projeto Integrador (PI)
-
----
-
-## 🎯 Objetivos
-- Conseguir meu primeiro emprego como Dev  
-- Evoluir para Desenvolvedor Full-Stack  
-- Melhorar minhas apresentações e comunicação  
-- Entrar no PROA e crescer na área de tecnologia  
-
----
 
 ## 📊 Minhas estatísticas
 
@@ -67,7 +22,7 @@ Tenho foco, disciplina e vontade de crescer como profissional de tecnologia.
 ---
 
 ## 📫 Como me encontrar
-- 💼 **LinkedIn:** https://linkedin.com/in/Guilherme França Domingues  
+- 💼 **LinkedIn:** https://linkedin.com/in/GuilhermeFrançaDomingues  
 - 🐙 **GitHub:** https://github.com/GuilhermefDomingues  
 
 ---

@@ -22,7 +22,7 @@ Tenho foco, disciplina e vontade de crescer como profissional de tecnologia.
 ---
 
 ## 📫 Como me encontrar
-- 💼 **LinkedIn:** https://linkedin.com/in/GuilhermeFrançaDomingues  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/guilherme-fran%C3%A7a-domingues-84a070276/
 - 🐙 **GitHub:** https://github.com/GuilhermefDomingues  
 
 ---

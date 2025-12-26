@@ -1,73 +1,29 @@
-👋 Olá, eu sou o Guilherme!
+👋 Guilherme
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Informática para Internet, apaixonado por transformar ideias em soluções funcionais através do código.
+Desenvolvedor Full Stack em formação
+Estudante de Análise e Desenvolvimento de Sistemas | Técnico em Informática para Internet
 
-🚀 Sobre mim
+🚀 Sobre
 
-Tenho 22 anos e iniciei minha jornada no desenvolvimento web, construindo bases sólidas em front-end. Com o tempo, evoluí para o desenvolvimento de aplicações completas, sempre buscando boas práticas, organização de código e performance.
+Tenho 22 anos e atuo no desenvolvimento web, com foco em React e Next.js no front-end e C# / ASP.NET no back-end. Gosto de transformar ideias em soluções funcionais, bem estruturadas e com boas práticas.
 
-Atualmente, meu foco principal está em React e Next.js, criando interfaces modernas, escaláveis e responsivas. No back-end, aprofundo meus conhecimentos em C# e ASP.NET, ampliando minha atuação como desenvolvedor full stack.
+Participei do Instituto Proa, onde desenvolvi projetos reais em equipe, fortalecendo habilidades técnicas e profissionais.
 
-Também participei do Instituto Proa, onde desenvolvi não apenas habilidades técnicas, mas competências profissionais essenciais como trabalho em equipe, comunicação, responsabilidade e resolução de problemas.
+🧩 Projeto — Sinout
 
-Perfil: Proativo, aprendizado constante na prática e motivado por novos desafios.
+Projeto desenvolvido no Instituto Proa, onde atuei como desenvolvedor full stack, participando do front-end e back-end da aplicação.
+O projeto foi apresentado para recrutadores e parceiros.
 
-🧩 Projeto em destaque — Sinout
+🛠️ Tech Stack
 
-O Sinout é um projeto desenvolvido em equipe durante minha formação no Instituto Proa, com foco em resolver um problema real por meio da tecnologia.
+Front-end: HTML • CSS • JavaScript • React • Next.js
+Back-end: C# • ASP.NET
+Ferramentas: Git • GitHub
 
-Atuei como desenvolvedor full stack, participando ativamente tanto do front-end quanto do back-end da aplicação. Contribuí na construção das interfaces, integração das funcionalidades, organização do código e colaboração direta com o time para entrega das soluções.
+📫 Contato
 
-O projeto foi apresentado para recrutadores e parceiros, tanto em estande quanto no palco, fortalecendo minhas habilidades de comunicação, trabalho em equipe e apresentação técnica.
+LinkedIn: https://www.linkedin.com/in/guilherme-fran%C3%A7a-domingues-84a070276/
 
-O Sinout consolidou minha experiência em:
+Email: guilhermefrancadomingues@outlook.com
 
-Desenvolvimento full stack em ambiente colaborativo
-
-Aplicação de boas práticas de código
-
-Transformação de requisitos em soluções funcionais
-
-Comunicação técnica e apresentação de projetos
-
-🛠️ Tecnologias & Ferramentas
-Front-end
-
-
-
-
-
-
-
-
-
-
-Back-end
-
-
-
-
-Ferramentas & Fundamentos
-
-
-
-
-Lógica de programação
-
-Versionamento de código
-
-Desenvolvimento Full Stack
-
-Interfaces responsivas
-
-📫 Como me encontrar
-
-💼 LinkedIn: https://linkedin.com/in/SEU-LINKEDIN
-
-📧 Email: seu.email@email.com
-
-🌐 Portfólio: https://seu-portfolio.com
-
-📊 Estatísticas do GitHub
-
-⭐️ Feito com dedicação, aprendizado
+⭐ Em constante evolução

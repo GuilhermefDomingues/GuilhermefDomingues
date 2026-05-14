@@ -21,7 +21,7 @@ Ferramentas: Git • GitHub • Vercel
 
 📫 Contato
 
-LinkedIn: linkedin.com/in/guilherme-franca-domingues
+LinkedIn: [linkedin.com/in/guilherme-franca-domingues](https://www.linkedin.com/in/guilherme-fran%C3%A7a-domingues-84a070276/)
 
 Email: [guilhermefrancadomingues@outlook.com](mailto:guilhermefrancadomingues@outlook.com)
 

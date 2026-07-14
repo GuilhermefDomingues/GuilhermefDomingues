@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full Stack Júnior | Estudante de Análise e Desenvolvimento de Sistemas | Técnico em Informática para Internet</p>
+<p align="left">Ánalista de sistemas | Estudante de Análise e Desenvolvimento de Sistemas | Técnico em Informática para Internet</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Tenho 22 anos e atuo no desenvolvimento web, com foco em React e Next.js no front-end e Python (FastAPI) e Node.js no back-end. Gosto de transformar ideias em soluções funcionais, bem estruturadas e com boas práticas.<br><br>Participei do Instituto PROA, onde desenvolvi projetos reais em equipe, fortalecendo habilidades técnicas e profissionais.</p>
+<p align="left"> Tenho 22 anos e atualmente atuo como <strong>Analista de Sistemas Trainee</strong>, desenvolvendo aplicações com <strong>Java</strong> e <strong>Spring Boot</strong>, participando da implementação e manutenção de sistemas corporativos, sempre buscando escrever código limpo e seguir boas práticas de desenvolvimento.</p>
 
 ###
 
@@ -39,6 +39,9 @@
   <img width="12" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
 </div>
 
 ###
